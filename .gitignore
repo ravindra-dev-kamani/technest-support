@@ -1,0 +1,8 @@
+# Customer data and secrets: never commit these
+technest.db*
+uploads/
+.env
+# Python and editor files
+__pycache__/
+*.pyc
+.vscode/
